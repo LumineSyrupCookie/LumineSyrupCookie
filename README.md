@@ -30,5 +30,6 @@ With that being said, let's dooooo it!
 |:---:|:---:|
 | Dragon Eye Cookie - CookieRun | [@DragonEyeCookie](https://github.com/DragonEyeCookie) |
 | White Lily Cookie - CookieRun:Kingdom | (Enmai but they'll make an acc soon!) |
+| Saiki Kusuo - The Disastrous Life of Saiki K. | [@AngeI-halo](https://github.com/AngeI-halo) |
   </tr>
 </table>
