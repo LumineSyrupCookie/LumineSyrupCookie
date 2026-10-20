@@ -24,7 +24,7 @@ With that being said, let's dooooo it!
   <tr>
     <td align="center">
 
-## CHARACTERS LIST! 🏆
+## CHARACTERS LIST! 🏆 [AU FRIENDLY!]
 
 | Character: | GitHub Username: |
 |:---:|:---:|
@@ -33,6 +33,7 @@ With that being said, let's dooooo it!
 | Saiki Kusuo - The Disastrous Life of Saiki K. | [@AngeI-halo](https://github.com/AngeI-halo) |
 | Glamrock Freddy - FNaF: Security Breach | [@SweetDeclaration](https://github.com/SweetDeclaration) |
 | Black Pearl Cookie - CookieRun:Kingdom | [@DuskgloomSovereign](https://github.com/DuskgloomSovereign) |
-
+| Blooming Bringer of Sloth - CookieRun:Kingdom | [@Noelle-heart](https://github.com/Noelle-heart) |
+ 
   </tr>
 </table>
