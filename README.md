@@ -32,5 +32,7 @@ With that being said, let's dooooo it!
 | White Lily Cookie - CookieRun:Kingdom | (Enmai but they'll make an acc soon!) |
 | Saiki Kusuo - The Disastrous Life of Saiki K. | [@AngeI-halo](https://github.com/AngeI-halo) |
 | Glamrock Freddy - FNaF: Security Breach | [@SweetDeclaration](https://github.com/SweetDeclaration) |
+| Black Pearl Cookie - CookieRun:Kingdom | [@DuskgloomSovereign](https://github.com/DuskgloomSovereign) |
+
   </tr>
 </table>
