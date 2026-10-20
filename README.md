@@ -28,7 +28,7 @@ With that being said, let's dooooo it!
 
 | Character | GitHub Username |
 |:---:|:---:|
-| Pony Town's Dragon Eye Cookie | [@DragonEyeCookie](https://github.com/DragonEyeCookie) |
+| Dragon Eye Cookie - CookieRun | [@DragonEyeCookie](https://github.com/DragonEyeCookie) |
 
   </tr>
 </table>
