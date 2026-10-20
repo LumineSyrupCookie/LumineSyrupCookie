@@ -26,7 +26,7 @@ With that being said, let's dooooo it!
 
 ## CHARACTERS LIST!
 
-| Character | Pony Town Username |
+| Character | GitHub Username |
 |:---:|:---:|
 | Pony Town's Dragon Eye Cookie | [@DragonEyeCookie](https://github.com/DragonEyeCookie) |
 
