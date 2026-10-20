@@ -34,6 +34,6 @@ With that being said, let's dooooo it!
 | Glamrock Freddy - FNaF: Security Breach | [@SweetDeclaration](https://github.com/SweetDeclaration) |
 | Black Pearl Cookie - CookieRun:Kingdom | [@DuskgloomSovereign](https://github.com/DuskgloomSovereign) |
 | Blooming Bringer of Sloth - CookieRun:Kingdom | [@Noelle-heart](https://github.com/Noelle-heart) |
-| Compassionate Pure Vanilla Cookie - CookieRun:Kingdom | [@S1llyvan1lly-666](https://github.com/S1llyvan1lly-666] |
+| Compassionate Pure Vanilla Cookie - CookieRun:Kingdom | [@S1llyvan1lly-666](https://github.com/S1llyvan1lly-666) |
   </tr>
 </table>
