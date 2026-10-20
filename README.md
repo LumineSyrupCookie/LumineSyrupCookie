@@ -6,3 +6,29 @@
   <br>
   <img src="./assets/download%20(1).png" width="100%" alt="Profile Banner">
 </p>
+
+
+<table align="center">
+  <tr>
+    <td align="center">
+
+# SPECIAL NOMINATIONS!
+
+I decided to do a special nominations of characters from my own point of view only!
+
+Sorry you can't do submissions to me, I will just decide after interacting with you in game!
+
+With that being said, let's dooooo it!
+
+  </tr>
+  <tr>
+    <td align="center">
+
+## CHARACTERS LIST!
+
+| Character | Pony Town Username |
+|:---:|:---:|
+| Pony Town's Dragon Eye Cookie | [@DragonEyeCookie](https://github.com/DragonEyeCookie) |
+
+  </tr>
+</table>
