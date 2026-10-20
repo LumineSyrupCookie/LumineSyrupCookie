@@ -12,7 +12,7 @@
   <tr>
     <td align="center">
 
-# SPECIAL NOMINATIONS!
+# SPECIAL NOMINATIONS! 👑
 
 I decided to do a special nominations of characters from my own point of view only!
 
@@ -24,7 +24,7 @@ With that being said, let's dooooo it!
   <tr>
     <td align="center">
 
-## CHARACTERS LIST!
+## CHARACTERS LIST! 🏆
 
 | Character | GitHub Username |
 |:---:|:---:|
