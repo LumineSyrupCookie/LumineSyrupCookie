@@ -26,7 +26,7 @@ With that being said, let's dooooo it!
 
 ## CHARACTERS LIST! 🏆
 
-| Character | GitHub Username |
+| Character: | GitHub Username: |
 |:---:|:---:|
 | Dragon Eye Cookie - CookieRun | [@DragonEyeCookie](https://github.com/DragonEyeCookie) |
 | White Lily Cookie - CookieRun:Kingdom | (Enmai but they'll make an acc soon!) |
