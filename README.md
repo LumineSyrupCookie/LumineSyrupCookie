@@ -29,7 +29,7 @@ With that being said, let's dooooo it!
 | Character: | GitHub Username: |
 |:---:|:---:|
 | Dragon Eye Cookie - CookieRun | [@DragonEyeCookie](https://github.com/DragonEyeCookie) |
-| White Lily Cookie - CookieRun:Kingdom | (Enmai but they'll make an acc soon!) |
+| White Lily Cookie - CookieRun:Kingdom | [@StairwayToFreedom](https://github.com/StairwayToFreedom) |
 | Saiki Kusuo - The Disastrous Life of Saiki K. | [@AngeI-halo](https://github.com/AngeI-halo) |
 | Glamrock Freddy - FNaF: Security Breach | [@SweetDeclaration](https://github.com/SweetDeclaration) |
 | Black Pearl Cookie - CookieRun:Kingdom | [@DuskgloomSovereign](https://github.com/DuskgloomSovereign) |
