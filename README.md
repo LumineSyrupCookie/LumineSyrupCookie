@@ -43,17 +43,21 @@ With that being said, let's dooooo it!
   <tr>
     <td align="center">
 
-## CHARACTERS LIST! 🏆 [AU FRIENDLY!]
-
-| Character: | GitHub Username: |
-|:---:|:---:|
-| Dragon Eye Cookie - CookieRun | [@DragonEyeCookie](https://github.com/DragonEyeCookie) |
-| White Lily Cookie - CookieRun:Kingdom | [@StairwayToFreedom](https://github.com/StairwayToFreedom) |
-| Saiki Kusuo - The Disastrous Life of Saiki K. | [@AngeI-halo](https://github.com/AngeI-halo) |
-| Glamrock Freddy - FNaF: Security Breach | [@SweetDeclaration](https://github.com/SweetDeclaration) |
-| Black Pearl Cookie - CookieRun:Kingdom | [@DuskgloomSovereign](https://github.com/DuskgloomSovereign) |
-| Blooming Bringer of Sloth - CookieRun:Kingdom | [@Noelle-heart](https://github.com/Noelle-heart) |
-| Compassionate Pure Vanilla Cookie - CookieRun:Kingdom | [@S1llyvan1lly-666](https://github.com/S1llyvan1lly-666) |
-| Longan Dragon Cookie - CookieRun | [@PinkestClownn](https://github.com/pinkestclownn) |
+      
+<table>
+  <tr>
+    <th colspan="2" align="center"><sub>🏆 CHARACTERS LIST! [AU FRIENDLY!] 🏆</sub></th>
   </tr>
+  <tr>
+    <th><sub>Character</sub></th>
+    <th><sub>GitHub Username</sub></th>
+  </tr>
+  <tr><td><sub>Dragon Eye Cookie - CookieRun</sub></td><td><sub><a href="https://github.com/DragonEyeCookie">@DragonEyeCookie</a></sub></td></tr>
+  <tr><td><sub>White Lily Cookie - CookieRun: Kingdom</sub></td><td><sub><a href="https://github.com/StairwayToFreedom">@StairwayToFreedom</a></sub></td></tr>
+  <tr><td><sub>Saiki Kusuo - The Disastrous Life of Saiki K.</sub></td><td><sub><a href="https://github.com/AngeI-halo">@AngeI-halo</a></sub></td></tr>
+  <tr><td><sub>Glamrock Freddy - FNaF: Security Breach</sub></td><td><sub><a href="https://github.com/SweetDeclaration">@SweetDeclaration</a></sub></td></tr>
+  <tr><td><sub>Black Pearl Cookie - CookieRun: Kingdom</sub></td><td><sub><a href="https://github.com/DuskgloomSovereign">@DuskgloomSovereign</a></sub></td></tr>
+  <tr><td><sub>Blooming Bringer of Sloth - CookieRun: Kingdom</sub></td><td><sub><a href="https://github.com/Noelle-heart">@Noelle-heart</a></sub></td></tr>
+  <tr><td><sub>Compassionate Pure Vanilla Cookie - CookieRun: Kingdom</sub></td><td><sub><a href="https://github.com/S1llyvan1lly-666">@S1llyvan1lly-666</a></sub></td></tr>
+  <tr><td><sub>Longan Dragon Cookie - CookieRun</sub></td><td><sub><a href="https://github.com/pinkestclownn">@PinkestClownn</a></sub></td></tr>
 </table>
