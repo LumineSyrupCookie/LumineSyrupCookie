@@ -60,4 +60,5 @@ With that being said, let's dooooo it!
   <tr><td><sub>Blooming Bringer of Sloth - CookieRun: Kingdom</sub></td><td><sub><a href="https://github.com/Noelle-heart">@Noelle-heart</a></sub></td></tr>
   <tr><td><sub>Compassionate Pure Vanilla Cookie - CookieRun: Kingdom</sub></td><td><sub><a href="https://github.com/S1llyvan1lly-666">@S1llyvan1lly-666</a></sub></td></tr>
   <tr><td><sub>Longan Dragon Cookie - CookieRun</sub></td><td><sub><a href="https://github.com/pinkestclownn">@PinkestClownn</a></sub></td></tr>
+<tr><td><sub>Mystic Flour Cookie - CookieRun: Kingdom</sub></td><td><sub><a href="https://github.com/HymnOfTheTides">@HymnOfTheTides</a></sub></td></tr>
 </table>
