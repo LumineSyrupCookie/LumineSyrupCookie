@@ -6,11 +6,11 @@
 <img src="./assets/nomimimimi.png" width="500" alt="Special Nominations Banner">
 
 
-I decided to do a special nominations of characters from my own point of view only!
+***I decided to do a special nominations of characters from my own point of view only!***
 
-Sorry you can't do submissions to me, I will just decide after interacting with you in game!
+***Sorry you can't do submissions to me, I will just decide after interacting with you in game***
 
-With that being said, let's dooooo it!
+***With that being said, let's dooooo it!***
 
 </div>
 <details>
@@ -107,6 +107,13 @@ With that being said, let's dooooo it!
     <td><strong>Raven of the Endless Night - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/horseseeyou">@horseseeyou</a></sub></td>
   </tr>
+
+  <tr>
+    <td align="center"><img src="./assets/eternal-sugar.png" width="65"></td>
+    <td><strong>Eternal Sugar Cookie - CookieRun: Kingdom</strong></td>
+    <td><sub><a href="https://github.com/eternal-suger-cookie">@eternal-suger-cookie</a></sub></td>
+  </tr>
+
 
 </table>
 
