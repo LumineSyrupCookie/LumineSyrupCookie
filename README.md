@@ -4,17 +4,12 @@
 
 <img src="./assets/nomimimimi.png" width="500" alt="Special Nominations Banner">
 
-<br><br>
-
-<table>
 
 I decided to do a special nominations of characters from my own point of view only!
 
 Sorry you can't do submissions to me, I will just decide after interacting with you in game!
 
 With that being said, let's dooooo it!
-
-<br><br>
 
 <table>
   <tr>
