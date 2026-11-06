@@ -32,6 +32,7 @@ With that being said, let's dooooo it!
   <tr><td><sub>Mystic Flour Cookie - CookieRun: Kingdom</sub></td><td><sub><a href="https://github.com/HymnOfTheTides">@HymnOfTheTides</a></sub></td></tr>
   <tr><td><sub>Black Sapphire Cookie - CookieRun: Kingdom</sub></td><td><sub><a href="https://github.com/Black-Sapphy">@Black-Sapphy</a></sub></td></tr>
   <tr><td><sub>Burning Spice Cookie - CookieRun: Kingdom</sub></td><td><sub><a href="https://github.com/Thespicetemple">@Thespicetemple</a></sub></td></tr>
+  <tr><td><sub>Raven of the Endless Night - CookieRun: Kingdom</sub></td><td><sub><a href="https://github.com/horseseeyou">@horseseeyou</a></sub></td></tr>
 </table>
 
 </div>
