@@ -11,13 +11,6 @@ Sorry you can't do submissions to me, I will just decide after interacting with 
 
 With that being said, let's dooooo it!
 
-<br><br>
-
-<details>
-<summary><strong>🏆 CLICK HERE TO VIEW THE CHARACTER NOMINATIONS! 🏆</strong></summary>
-
-<br>
-
 <table>
   <tr>
     <th colspan="3" align="center">
@@ -55,7 +48,56 @@ With that being said, let's dooooo it!
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/black-pearl
+    <td align="center"><img src="./assets/black-pearl.png" width="65"></td>
+    <td><strong>Black Pearl Cookie - CookieRun: Kingdom</strong></td>
+    <td><sub><a href="https://github.com/DuskgloomSovereign">@DuskgloomSovereign</a></sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="./assets/blooming-sloth.png" width="65"></td>
+    <td><strong>Blooming Bringer of Sloth - CookieRun: Kingdom</strong></td>
+    <td><sub><a href="https://github.com/Noelle-heart">@Noelle-heart</a></sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="./assets/awaken-vanilla.png" width="65"></td>
+    <td><strong>Compassionate Pure Vanilla Cookie - CookieRun: Kingdom</strong></td>
+    <td><sub><a href="https://github.com/S1llyvan1lly-666">@S1llyvan1lly-666</a></sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="./assets/longan-dragon.png" width="65"></td>
+    <td><strong>Longan Dragon Cookie - CookieRun</strong></td>
+    <td><sub><a href="https://github.com/pinkestclownn">@PinkestClownn</a></sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="./assets/mystic-flour.png" width="65"></td>
+    <td><strong>Mystic Flour Cookie - CookieRun: Kingdom</strong></td>
+    <td><sub><a href="https://github.com/HymnOfTheTides">@HymnOfTheTides</a></sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="./assets/black-sapphire.png" width="65"></td>
+    <td><strong>Black Sapphire Cookie - CookieRun: Kingdom</strong></td>
+    <td><sub><a href="https://github.com/Black-Sapphy">@Black-Sapphy</a></sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="./assets/burning-spice.png" width="65"></td>
+    <td><strong>Burning Spice Cookie - CookieRun: Kingdom</strong></td>
+    <td><sub><a href="https://github.com/Thespicetemple">@Thespicetemple</a></sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="./assets/raven.png" width="65"></td>
+    <td><strong>Raven of the Endless Night - CookieRun: Kingdom</strong></td>
+    <td><sub><a href="https://github.com/horseseeyou">@horseseeyou</a></sub></td>
+  </tr>
+
+</table>
+
+</div>
 ```
 
 </div>
