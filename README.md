@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <br>
@@ -10,6 +11,18 @@ I decided to do a special nominations of characters from my own point of view on
 Sorry you can't do submissions to me, I will just decide after interacting with you in game!
 
 With that being said, let's dooooo it!
+
+</div>
+<details>
+<summary>  <---- 🏆 CLICK HERE TO VIEW THE CHARACTER NOMINATIONS! 🏆
+    <span style="font-size: 22px; font-weight: bold;">  
+    </span>
+  </div>
+</summary>
+
+<br>
+
+<div align="center">
 
 <table>
   <tr>
@@ -98,20 +111,14 @@ With that being said, let's dooooo it!
 </table>
 
 </div>
-```
 
-</div>
+</details>
 
-
-
-<h1> While you're here, have a menacing Shadow Milky The Budgie!
+<h1>While you're here, have a menacing Shadow Milky The Budgie!</h1>
 
 <p align="center">
   <img src="./assets/MOOLKY.png" alt="Moolky">
 </p>
-
-
-
 
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LumineSyrupCookie.visitor-badge&left_text=BUDGIES&left_color=%23ee16fe&right_color=%2312c4af&height=30" alt="visitor badge"/>
@@ -122,7 +129,3 @@ With that being said, let's dooooo it!
   <img src="./assets/download%20(1).png" width="100%" alt="Profile Banner">
 </p>
 
-
-<table align="center">
-  <tr>
-    <td align="center">
