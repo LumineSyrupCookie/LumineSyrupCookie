@@ -37,84 +37,84 @@
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/dragon-eye.jpg" width="65"></td>
+    <td align="center"><img src="./assets/dragon-eye.jpg" width="100"></td>
     <td><strong>Dragon Eye Cookie - CookieRun</strong></td>
     <td><sub><a href="https://github.com/DragonEyeCookie">@DragonEyeCookie</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/white-lily.png" width="65"></td>
+    <td align="center"><img src="./assets/white-lily.png" width="100"></td>
     <td><strong>White Lily Cookie - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/StairwayToFreedom">@StairwayToFreedom</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/saiki-kusuo.png" width="65"></td>
+    <td align="center"><img src="./assets/saiki-kusuo.png" width="100"></td>
     <td><strong>Saiki Kusuo - The Disastrous Life of Saiki K.</strong></td>
     <td><sub><a href="https://github.com/AngeI-halo">@AngeI-halo</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/glamrock-freddy.png" width="65"></td>
+    <td align="center"><img src="./assets/glamrock-freddy.png" width="100"></td>
     <td><strong>Glamrock Freddy - FNaF: Security Breach</strong></td>
     <td><sub><a href="https://github.com/SweetDeclaration">@SweetDeclaration</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/black-pearl.png" width="65"></td>
+    <td align="center"><img src="./assets/black-pearl.png" width="100"></td>
     <td><strong>Black Pearl Cookie - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/DuskgloomSovereign">@DuskgloomSovereign</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/blooming-sloth.png" width="65"></td>
+    <td align="center"><img src="./assets/blooming-sloth.png" width="100"></td>
     <td><strong>Blooming Bringer of Sloth - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/Noelle-heart">@Noelle-heart</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/awaken-vanilla.png" width="65"></td>
+    <td align="center"><img src="./assets/awaken-vanilla.png" width="100"></td>
     <td><strong>Compassionate Pure Vanilla Cookie - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/S1llyvan1lly-666">@S1llyvan1lly-666</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/longan-dragon.png" width="65"></td>
+    <td align="center"><img src="./assets/longan-dragon.png" width="100"></td>
     <td><strong>Longan Dragon Cookie - CookieRun</strong></td>
     <td><sub><a href="https://github.com/pinkestclownn">@PinkestClownn</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/mystic-flour.png" width="65"></td>
+    <td align="center"><img src="./assets/mystic-flour.png" width="100"></td>
     <td><strong>Mystic Flour Cookie - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/HymnOfTheTides">@HymnOfTheTides</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/black-sapphire.png" width="65"></td>
+    <td align="center"><img src="./assets/black-sapphire.png" width="100"></td>
     <td><strong>Black Sapphire Cookie - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/Black-Sapphy">@Black-Sapphy</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/burning-spice.png" width="65"></td>
+    <td align="center"><img src="./assets/burning-spice.png" width="100"></td>
     <td><strong>Burning Spice Cookie - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/Thespicetemple">@Thespicetemple</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/raven.png" width="65"></td>
+    <td align="center"><img src="./assets/raven.png" width="100"></td>
     <td><strong>Raven of the Endless Night - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/horseseeyou">@horseseeyou</a></sub></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="./assets/eternal-sugar.png" width="65"></td>
+    <td align="center"><img src="./assets/eternal-sugar.png" width="100"></td>
     <td><strong>Eternal Sugar Cookie - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/eternal-suger-cookie">@eternal-suger-cookie</a></sub></td>
   </tr>
 </tr>
-      <td align="center"><img src="./assets/bringer-of-happiness.png" width="65"></td>
+      <td align="center"><img src="./assets/bringer-of-happiness.png" width="100"></td>
     <td><strong>Bringer of Happiness - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/Sugarybliss">@Sugarybliss</a></sub></td>
   </tr>
