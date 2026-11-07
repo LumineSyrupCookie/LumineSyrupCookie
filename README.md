@@ -119,6 +119,12 @@
     <td><sub><a href="https://github.com/Sugarybliss">@Sugarybliss</a></sub></td>
   </tr>
 
+  </tr>
+      <td align="center"><img src="./assets/xylitol.png" width="100"></td>
+    <td><strong>Xylitol Nova Cookie - CookieRun</strong></td>
+    <td><sub><a href="https://github.com/PRISMATICLASER">@PRISMATICLASER</a></sub></td>
+  </tr>
+
 </table>
 
 </div>
