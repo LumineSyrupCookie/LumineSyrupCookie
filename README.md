@@ -113,7 +113,11 @@
     <td><strong>Eternal Sugar Cookie - CookieRun: Kingdom</strong></td>
     <td><sub><a href="https://github.com/eternal-suger-cookie">@eternal-suger-cookie</a></sub></td>
   </tr>
-
+</tr>
+      <td align="center"><img src="./assets/bringer-of-happiness.png" width="65"></td>
+    <td><strong>Bringer of Happiness - CookieRun: Kingdom</strong></td>
+    <td><sub><a href="https://github.com/Sugarybliss">@Sugarybliss</a></sub></td>
+  </tr>
 
 </table>
 
