@@ -284,7 +284,7 @@
     </td>
     <td align="center">
       <img src="./assets/billandbiru.png" width="200"><br>
-      <b>Bill and Biru</b>
+      <b>Biru and Bill</b>
     </td>
   </tr>
   <tr>
