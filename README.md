@@ -1,4 +1,7 @@
-
+<h1 align="center"><b>Milky: I'M SHADOW MILK COOKIE. I AM HIM AND HE IS ME, OKAY? OKAY.!</b></h1>
+<p align="center">
+  <img src="./assets/HuggingSmilks.png" width="1000" alt="Shadow Milk Cookie Banner">
+</p>
 <div align="center">
 
 <br>
