@@ -234,7 +234,7 @@
   <tr>
     <td align="center">
       <img src="./assets/tasumi1.png" width="200"><br>
-      <b>Tasumi The Budgie 1</b>
+      <b>Tasumi The Budgie</b>
     </td>
     <td align="center">
       <img src="./assets/biruandprince.png" width="200"><br>
