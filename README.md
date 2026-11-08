@@ -234,7 +234,7 @@
   <tr>
     <td align="center">
       <img src="./assets/tasumi1.png" width="200"><br>
-      <b>Tasumi The Budgie</b>
+      <b>Tasumi The Budgie - she unfortunately flee away because of my mother's mistake.. GRRRR</b>
     </td>
     <td align="center">
       <img src="./assets/biruandprince.png" width="200"><br>
