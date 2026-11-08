@@ -265,7 +265,7 @@
   <tr>
     <td align="center">
       <img src="./assets/atlasbudgie2.png" width="200"><br>
-      <b>Atlas The Budgie 2</b>
+      <b>Atlas The Budgie</b>
     </td>
     <td align="center">
       <img src="./assets/spicesawsomething.png" width="200"><br>
