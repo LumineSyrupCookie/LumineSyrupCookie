@@ -207,7 +207,7 @@
   <tr>
     <td align="center">
       <img src="./assets/Silentsaltybirds.png" width="200"><br>
-      <b>Silent Salty glamcing</b>
+      <b>Silent Salty glancing</b>
     </td>
     <td align="center">
       <img src="./assets/Spicehappybird.png" width="200"><br>
