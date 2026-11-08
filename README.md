@@ -372,9 +372,36 @@
     </td>
   </tr>
 </table>
+
+<h1 align="center">SHADOWLUMINI SHIP GALLERY!!!</h1>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/ShadowLumini1.png" width="200">
+    </td>
+    <td align="center">
+      <img src="./assets/ShadowLumini2.png" width="200">
+    </td>
+    <td align="center">
+      <img src="./assets/ShadowLumini3.png" width="200">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/ShadowLumini4.png" width="200">
+    </td>
+    <td align="center">
+      <img src="./assets/ShadowLumini5.png" width="200">
+    </td>
+    <td align="center">
+      <img src="./assets/ShadowLumini6.png" width="200">
+    </td>
+  </tr>
+</table>
+<h1 align="center">ALMOST ALL OF THEM BUT NOT!!!</h1>
 <p align="center">
   <img src="./assets/almostall.png" width="650"><br>
-  <b>ALMOST ALL BUT NOT!</b>
 </p>
 
 <p align="center">
