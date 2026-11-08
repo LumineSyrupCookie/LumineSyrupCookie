@@ -144,6 +144,78 @@
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LumineSyrupCookie.visitor-badge&left_text=BUDGIES&left_color=%23ee16fe&right_color=%2312c4af&height=30" alt="visitor badge"/>
 </p> 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/birdmilks.png" width="200"><br>
+      <b>Ultimate Shadow Milk.</b>
+    </td>
+    <td align="center">
+      <img src="./assets/shadowwow.png" width="200"><br>
+      <b>Still not convinced? Look again.</b>
+    </td>
+    <td align="center">
+      <img src="./assets/butheisilentsaltcolor.png" width="200"><br>
+      <b>He is attached to his kin</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/cookieheadlumine.png" width="200"><br>
+      <b>Lumine Syrup but budgie, with her cute little cookie head</b>
+    </td>
+    <td align="center">
+      <img src="./assets/HELP%20MEEEEEE.png" width="200"><br>
+      <b>Bill Cipher vs Shadow Milk Cookie</b>
+    </td>
+    <td align="center">
+      <img src="./assets/imnotsalt.png" width="200"><br>
+      <b>Shadow Milky declaring himself as Shadow Milk again</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/Imstaroftheshow.png" width="200"><br>
+      <b>I'm star of the show he said</b>
+    </td>
+    <td align="center">
+      <img src="./assets/lovemelumine.png" width="200"><br>
+      <b>Milky and Lumini performing</b>
+    </td>
+    <td align="center">
+      <img src="./assets/ShadudumMilky.png" width="200"><br>
+      <b>Shadudum Milky so GRUMPY SO ANGRY</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/Silenceeeee.png" width="200"><br>
+      <b>Sileeeeeence....</b>
+    </td>
+    <td align="center">
+      <img src="./assets/SilentSaltcookies.png" width="200"><br>
+      <b>Silent Salty showing his muscles</b>
+    </td>
+    <td align="center">
+      <img src="./assets/SilentSaltmoment.png" width="200"><br>
+      <b>Silent Salty escaping the Silver Seal Tree (real)</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/Silentsaltybirds.png" width="200"><br>
+      <b>Silent Salty glamcing</b>
+    </td>
+    <td align="center">
+      <img src="./assets/Spicehappybird.png" width="200"><br>
+      <b>Burning Spicey asking to be snuggled</b>
+    </td>
+    <td align="center">
+      <img src="./assets/Sweetslumberrbird.png" width="200"><br>
+      <b>Sweet slumber for Eternal Sugary</b>
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="./assets/flamingtext_com-167970217.png" alt="Profile Title">
   <br>
