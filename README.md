@@ -326,7 +326,7 @@
     </td>
     <td align="center">
       <img src="./assets/batumoment1.png" width="200"><br>
-      <b>Batu moment 1</b>
+      <b>Batu and Cotton moment, Cotton was a gift to a neighbor that ditched me later on.. Oops</b>
     </td>
   </tr>
   <tr>
