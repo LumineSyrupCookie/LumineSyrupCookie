@@ -216,6 +216,167 @@
     </td>
   </tr>
 </table>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="./assets/batuagainskateboard.png" width="200"><br>
+      <b>Batu on his favorite skateboard</b>
+    </td>
+    <td align="center">
+      <img src="./assets/triobudgies.png" width="200"><br>
+      <b>Trio chubby budgies snuggling, Jambon, Irmik, Nugget </b>
+    </td>
+    <td align="center">
+      <img src="./assets/gurin.png" width="200"><br>
+      <b>Gurin The Rainbow-Half-Sider-Japanese-Budgie RIP</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/tasumi1.png" width="200"><br>
+      <b>Tasumi The Budgie 1</b>
+    </td>
+    <td align="center">
+      <img src="./assets/biruandprince.png" width="200"><br>
+      <b>Biru and Prince Rosella</b>
+    </td>
+    <td align="center">
+      <img src="./assets/Ovenheadahhcookiebudgie.png" width="200"><br>
+      <b>Ovenhead Ahh Cookie Budgie, Cinnamon The Budgie</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/Morisbudgie.png" width="200"><br>
+      <b>Moris The Budgie AKA BLACK SAPPHIRE!</b>
+    </td>
+    <td align="center">
+      <img src="./assets/brothersborapuffy.png" width="200"><br>
+      <b>Brothers Bora and Puffy</b>
+    </td>
+    <td align="center">
+      <img src="./assets/babiesbudgies.png" width="200"><br>
+      <b>Baby budgies snuggling Moris, Puffy and Bora</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/atlasbudgie2.png" width="200"><br>
+      <b>Atlas The Budgie 2</b>
+    </td>
+    <td align="center">
+      <img src="./assets/spicesawsomething.png" width="200"><br>
+      <b>What is Burning Spicey looking at?</b>
+    </td>
+    <td align="center">
+      <img src="./assets/ripjambon.png" width="200"><br>
+      <b>RIP Jambon The Budgie</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/ripnugget.png" width="200"><br>
+      <b>RIP Nugget The Budgie, Rajapendra Cookie would've loved him</b>
+    </td>
+    <td align="center">
+      <img src="./assets/sugaropenshereyes.png" width="200"><br>
+      <b>Sugary opens his sleepy eyes</b>
+    </td>
+    <td align="center">
+      <img src="./assets/billandbiru.png" width="200"><br>
+      <b>Bill and Biru</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/luminiprettiestbudgie.png" width="200"><br>
+      <b>Lumini the prettiest budgie</b>
+    </td>
+    <td align="center">
+      <img src="./assets/tasumi2.png" width="200"><br>
+      <b>Tasumi The Budgie with her pretty face</b>
+    </td>
+    <td align="center">
+      <img src="./assets/Pikobudgie.png" width="200"><br>
+      <b>Piko The Budgie</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/billvssmilkdebate.png" width="200"><br>
+      <b>Smilk vs Bill debate</b>
+    </td>
+    <td align="center">
+      <img src="./assets/screamingflour.png" width="200"><br>
+      <b>Screaming Floury</b>
+    </td>
+    <td align="center">
+      <img src="./assets/princerosella.png" width="200"><br>
+      <b>Prince Rosella</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/eternalsugarbeinggrabbed.png" width="200"><br>
+      <b>Eternal Sugary being grabbed</b>
+    </td>
+    <td align="center">
+      <img src="./assets/mysticflourstanding1.png" width="200"><br>
+      <b>Mystic Floury Standing</b>
+    </td>
+    <td align="center">
+      <img src="./assets/batumoment1.png" width="200"><br>
+      <b>Batu moment 1</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/birustaring.png" width="200"><br>
+      <b>Biru staring</b>
+    </td>
+    <td align="center">
+      <img src="./assets/gaycoupleofbirds.png" width="200"><br>
+      <b>Gay couple</b>
+    </td>
+    <td align="center">
+      <img src="./assets/ratmilky.png" width="200"><br>
+      <b>Rat Milky</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/angrymilkys.png" width="200"><br>
+      <b>Angry Milky</b>
+    </td>
+    <td align="center">
+      <img src="./assets/standingflour2.png" width="200"><br>
+      <b>Menacingly standing Floury again 2</b>
+    </td>
+    <td align="center">
+      <img src="./assets/lunabudgie.png" width="200"><br>
+      <b>Luna Budgie, too bad she had to go away</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./assets/malelumini.png" width="200"><br>
+      <b>Male Lumini</b>
+    </td>
+    <td align="center">
+      <img src="./assets/atlasbudgie.png" width="200"><br>
+      <b>Atlas The Budgie AGAIN</b>
+    </td>
+    <td align="center">
+      <img src="./assets/fluffybeingspotty.png" width="200"><br>
+      <b>The fluffy being Spotty</b>
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <img src="./assets/almostall.png" width="650"><br>
+  <b>ALMOST ALL BUT NOT!</b>
+</p>
+
 <p align="center">
   <img src="./assets/flamingtext_com-167970217.png" alt="Profile Title">
   <br>
