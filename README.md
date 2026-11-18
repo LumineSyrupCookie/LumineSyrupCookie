@@ -128,6 +128,14 @@
     <td><sub><a href="https://github.com/PRISMATICLASER">@PRISMATICLASER</a></sub></td>
   </tr>
 
+<tr>
+  <td align="center">
+    <img src="./assets/Tragicomedyicon.png" width="100" alt="Tragicomedy">
+  </td>
+  <td><strong>Ink for a Tragicomedy - CookieRun: Kingdom</strong></td>
+  <td><sub><a href="https://github.com/LQDYTANO">@LQDYTANO</a></sub></td>
+</tr>
+
 </table>
 
 </div>
