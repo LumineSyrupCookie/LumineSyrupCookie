@@ -136,6 +136,14 @@
   <td><sub><a href="https://github.com/LQDYTANO">@LQDYTANO</a></sub></td>
 </tr>
 
+<tr>
+  <td align="center">
+    <img src="./assets/Affogatoicon.png" width="100" alt="Affogato">
+  </td>
+  <td><strong>Affogato Cookie - CookieRun: Kingdom</strong></td>
+  <td><sub><a href="https://github.com/affogato4cookie">@affogato4cookie</a></sub></td>
+</tr>
+
 </table>
 
 </div>
