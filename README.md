@@ -130,9 +130,9 @@
 
 <tr>
   <td align="center">
-    <img src="./assets/Tragicomedyicon.png" width="100" alt="Tragicomedy">
+    <img src="./assets/SugarSwanicon.png" width="100" alt="SugarSwan">
   </td>
-  <td><strong>Ink for a Tragicomedy - CookieRun: Kingdom</strong></td>
+  <td><strong>Sugar Swan Cookie - CookieRun: Kingdom</strong></td>
   <td><sub><a href="https://github.com/LQDYTANO">@LQDYTANO</a></sub></td>
 </tr>
 
