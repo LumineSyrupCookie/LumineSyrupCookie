@@ -144,6 +144,14 @@
   <td><sub><a href="https://github.com/affogato4cookie">@affogato4cookie</a></sub></td>
 </tr>
 
+<tr>
+  <td align="center">
+    <img src="./assets/shadow-milkicon.png" width="100" alt="Smilk">
+  </td>
+  <td><strong>Shadow Milk Cookie - CookieRun: Kingdom</strong></td>
+  <td><sub><a href="https://github.com/angel1c-melody">@angel1c-melody</a></sub></td>
+</tr>
+
 </table>
 
 </div>
