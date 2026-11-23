@@ -152,6 +152,14 @@
   <td><sub><a href="https://github.com/angel1c-melody">@angel1c-melody</a></sub></td>
 </tr>
 
+<tr>
+  <td align="center">
+    <img src="./assets/recluseicon.png" width="100" alt="Recluse">
+  </td>
+  <td><strong>Truthless Recluse - CookieRun: Kingdom</strong></td>
+  <td><sub><a href="https://github.com/LightMantaa">@LightMantaa</a></sub></td>
+</tr>
+
 </table>
 
 </div>
