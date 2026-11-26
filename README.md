@@ -160,6 +160,14 @@
   <td><sub><a href="https://github.com/LightMantaa">@LightMantaa</a></sub></td>
 </tr>
 
+<tr>
+  <td align="center">
+    <img src="./assets/elderfaerieicon.png" width="100" alt="Elder">
+  </td>
+  <td><strong>Elder Faerie Cookie - CookieRun: Kingdom</strong></td>
+  <td><sub><a href="https://github.com/ElderFaerie">@ElderFaerie</a></sub></td>
+</tr>
+
 </table>
 
 </div>
