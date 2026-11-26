@@ -166,6 +166,7 @@
   </td>
   <td><strong>Elder Faerie Cookie - CookieRun: Kingdom</strong></td>
   <td><sub><a href="https://github.com/ElderFaerie">@ElderFaerie</a></sub></td>
+  <td><sub><a href="https://github.com/AnnoyingAhni">@AnnoyingAhni</a></sub></td>
 </tr>
 
 </table>
