@@ -165,8 +165,13 @@
     <img src="./assets/elderfaerieicon.png" width="100" alt="Elder">
   </td>
   <td><strong>Elder Faerie Cookie - CookieRun: Kingdom</strong></td>
-  <td><sub><a href="https://github.com/ElderFaerie">@ElderFaerie</a></sub></td>
-  <td><sub><a href="https://github.com/AnnoyingAhni">@AnnoyingAhni</a></sub></td>
+  <td>
+  <sub>
+    <a href="https://github.com/ElderFaerie">@ElderFaerie</a> |
+    <a href="https://github.com/AnnoyingAhni">@AnnoyingAhni</a>
+  </sub>
+</td>
+  </td>
 </tr>
 
 </table>
