@@ -1,4 +1,4 @@
-<h1 align="center"><b>Milky: HELLO!! THIS IS MY CUSTOM COOKIE RUN KINGDOM PLUSHIES AND MORE COMING SOON!!! Yes they're accurate cookie sized.</b></h1>
+<h1 align="center"><b>HELLO!! THIS IS MY CUSTOM COOKIE RUN KINGDOM PLUSHIES AND MORE COMING SOON!!! Yes they're accurate cookie sized.</b></h1>
 <div align="center">
   <img src="./assets/myplushcollection1.png" width="100%" alt="My Plush Collection">
 </div>
