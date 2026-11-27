@@ -1,3 +1,8 @@
+<h1 align="center"><b>Milky: HELLO!! THIS IS MY CUSTOM COOKIE RUN KINGDOM PLUSHIES AND MORE COMING SOON!!! Yes they're accurate cookie sized.</b></h1>
+<div align="center">
+  <img src="./assets/myplushcollection1.png" width="100%" alt="My Plush Collection">
+</div>
+
 <h1 align="center"><b>Milky: I'M SHADOW MILK COOKIE. I AM HIM AND HE IS ME, OKAY? OKAY.!</b></h1>
 <p align="center">
   <img src="./assets/HuggingSmilks.png" width="1000" alt="Shadow Milk Cookie Banner">
